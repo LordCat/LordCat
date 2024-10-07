@@ -1,5 +1,15 @@
 ## Hi there 👋
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LordCat&layout=compact)
+
+<table>
+  <tr>
+    <td width="70%">
+      ##Hello
+    </td>
+    <td width="30%">
+      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LordCat&layout=compact)
+    </td>
+  </tr>
+</table>
 ---
 
 <table>
