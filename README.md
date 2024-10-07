@@ -2,7 +2,15 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LordCat&layout=compact)
 ---
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=LordCat&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LordCat)](https://git.io/streak-stats)
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=LordCat&show_icons=true&theme=radical" alt="Your GitHub stats" width="100%">
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=LordCat&theme=radical" alt="GitHub Streak" width="100%">
+    </td>
+  </tr>
+</table>
 
 ---
