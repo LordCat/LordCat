@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <td width="70%">
-      <p width="100%">
+    <td width="50%">
+      <p width="100%" height="100%">
       ##Hello
        </p>
     </td>
