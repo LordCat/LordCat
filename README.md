@@ -2,12 +2,12 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="70%">
       <p width="100%">
       ##Hello
        </p>
     </td>
-    <td width="50%">
+    <td width="30%">
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordCat&theme=radical" alt="Your GitHub stats" width="100%" height="500px">
     </td>
   </tr>
