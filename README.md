@@ -10,9 +10,6 @@
     <td width="50%">
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordCat&theme=radical" alt="My GitHub stats" width="100%">
     </td>
-    <td width="50%>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=LordCattheme=radical" alt="my github metrics
-    </td>
   </tr>
 </table>
 ---
