@@ -6,7 +6,7 @@
       ##Hello
     </td>
     <td width="30%">
-      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LordCat&layout=compact)
+       <img src="![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LordCat&layout=compact)" alt="Your GitHub stats" width="100%">
     </td>
   </tr>
 </table>
