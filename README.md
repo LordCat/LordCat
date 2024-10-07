@@ -3,11 +3,12 @@
 <table>
   <tr>
     <td width="60%">
+      <row>
       <p width="100%">
       ##Hello
-       </p>
+      </row>
     </td>
-    <td width="40%">
+    <t width="40%">
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordCat&theme=radical" alt="Your GitHub stats" width="100%" height="100%">
     </td>
   </tr>
