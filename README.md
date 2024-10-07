@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="60%">
-      <p height="400px">
+      <p height="400px" width="100%">
       ##Hello
        </p>
     </td>
