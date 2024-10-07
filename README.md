@@ -8,7 +8,7 @@
       ##Hello
       </row>
     </td>
-    <t width="40%">
+    <td width="40%">
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordCat&theme=radical" alt="Your GitHub stats" width="100%" height="100%">
     </td>
   </tr>
