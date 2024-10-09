@@ -3,8 +3,6 @@
 <table>
   <tr>
       <p width="100%">
-      ##Hello
-      </row>
   </tr>
   <tr>
     <td width="50%">
