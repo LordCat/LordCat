@@ -2,8 +2,9 @@
 
 Welcome to my github, I'm a developer and security researcher (because who isn't these days). 
 
-[![Repo 1](https://img.shields.io/badge/Repo%201-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AtlasWiki/EndPointer)
-[![Repo 2](https://img.shields.io/badge/Repo%201-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LordCat/PlaceHolder-Extension)
+
+[![Endpointer](https://img.shields.io/badge/Repo%201-8A2BE2?style=for-the-badge&logo=github&logoColor=radical)](https://github.com/AtlasWiki/EndPointer)
+[![Placeholder-Extension](https://img.shields.io/badge/Repo%201-8A2BE2?style=for-the-badge&logo=github&logoColor=radical)](https://github.com/LordCat/PlaceHolder-Extension)
 
 
 
