@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Welcome to my github, I'm a developer and security researcher (because who isn't these days). 
+
 <table>
   <tr>
       <p width="100%">
