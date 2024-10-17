@@ -51,15 +51,10 @@ I'm a developer and security researcher.
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
 ## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LordCat&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordCat&theme=radical&layout=compact" alt="Top Languages" width="355" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LordCat&theme=radical" alt="GitHub Streak" width="825"/>
 
-<div align="center" width="30%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordCat&theme=radical&layout=compact" alt="Top Languages" />
-</div>
-
-<div align="center" width="30%">
-  <img src="https://github-readme-stats.vercel.app/api?username=LordCat&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LordCat&theme=radical" alt="GitHub Streak" />
-</div>
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristian-alex-kelly/)
