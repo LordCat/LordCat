@@ -67,7 +67,3 @@ I'm a developer and security researcher.
 
 
 ---
-
-<div align="center">
-  <i>⭐️ From [LordCat](https://github.com/LordCat)</i>
-</div>
