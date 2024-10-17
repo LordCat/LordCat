@@ -52,11 +52,11 @@ I'm a developer and security researcher.
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="center" width="50%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordCat&theme=radical&layout=compact" alt="Top Languages" />
 </div>
 
-<div align="center">
+<div align="center" width="50%">
   <img src="https://github-readme-stats.vercel.app/api?username=LordCat&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LordCat&theme=radical" alt="GitHub Streak" />
 </div>
